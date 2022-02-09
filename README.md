@@ -1,2 +1,4 @@
 # Starbucks-Landing-Page-Clone
- Traversy Media Starbucks Landing Page Clone https://www.youtube.com/watch?v=x_n2FGNsm0o
+HTML/CSS clone of Starbucks.com
+Made by this tutorial https://www.youtube.com/watch?v=x_n2FGNsm0o
+Thanks to author: Traversy Media
