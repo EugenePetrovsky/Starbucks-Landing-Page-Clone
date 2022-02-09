@@ -407,6 +407,12 @@ background-color: rgba(0, 0, 0, 0.06);
         text-align: center;
     }
 
+    .footer .social {
+        text-align: center;
+        justify-content: center;
+        flex-wrap: wrap
+    }
+
 }
 
 @media (min-width: 1440px) {
