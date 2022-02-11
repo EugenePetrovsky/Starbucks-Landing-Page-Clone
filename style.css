@@ -167,6 +167,10 @@ margin: 0 5px;
     justify-content: space-between;
 }
 
+.box-f {
+    align-items: baseline;
+}
+
 .grid-reversed :first-child {
     order: 2
 }
